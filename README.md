@@ -10,7 +10,7 @@ If you would like to practice again, you can retrace your steps below. Just pres
 > Mona won't grade you this time! 😉
 
 
- # Introduction to GitHub
+ # 🐙 Introduction to GitHub
 
 <!-- ![](https://github.com/ChrisBrown60/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/ChrisBrown60/skills-introduction-to-github/actions/workflows/1-create-a-branch.yml/badge.svg)
@@ -20,15 +20,21 @@ If you would like to practice again, you can retrace your steps below. Just pres
 
 _Get started using GitHub in less than an hour._
 
-## Welcome
+## 👋 Welcome
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
 
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
-- **How long**: This exercise takes less than one hour to complete.
+## 📚 What You'll Learn
+
+We'll introduce repositories, branches, commits, and pull requests.
+
+## 🎯 Who Is This For
+
+- New developers, new GitHub users, and students
+- No prerequisites needed — this exercise is a great introduction for your first day on GitHub
+- Completion time: less than one hour
+
+## 🔨 What You'll Do
 
 In this exercise, you will:
 
@@ -37,7 +43,9 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this exercise
+We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+
+## 🚀 How to Start
 
 1. Right-click **Copy Exercise** and open the link in a new tab.
 
@@ -47,7 +55,7 @@ In this exercise, you will:
 
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.chttps://github.com/ChrisBrown60/skills-introduction-to-github/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Scroll down and click the **Create repository** button at the bottom of the form.
 
 3. After your new repository is created, wait about 20 seconds for the exercise to be prepared and buttons updated. You will continue working from your copy of the exercise.
@@ -64,8 +72,12 @@ In this exercise, you will:
 > [!IMPORTANT]
 > The **Start Exercise** button will activate after copying the repository. You will probably need to refresh the page.
 
+## 🎉 You're on your way!
+
+Once you start the exercise, follow the step-by-step instructions and you'll be contributing on GitHub in no time. Good luck!
+
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
